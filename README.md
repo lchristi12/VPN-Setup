@@ -1,9 +1,10 @@
 <p align="center">
-<img width="624" height="426" alt="image" src="https://github.com/user-attachments/assets/877970ec-c78b-476b-94d0-640c49747ad5">
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/81c5541a-92d7-4f7c-97c4-df03e9018cc3" />
+
 
 </p>
 
-<h1> Configuring Active Directory Within Azure VMs</h1>
+<h1> VPN Setup in Virtual Machines</h1>
 This tutorial outlines the prerequisites and using a VPN within the VM and your personal computer.<br />
 
 
