@@ -1,9 +1,9 @@
 <p align="center">
-<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e43e6253-469e-46d9-841a-0fa3384d5e65" />
+<img width="624" height="426" alt="image" src="https://github.com/user-attachments/assets/877970ec-c78b-476b-94d0-640c49747ad5">
 
 </p>
 
-<h1>Setting up Virtual Machines and Remote Access(Azure)</h1>
+<h1> Configuring Active Directory Within Azure VMs</h1>
 This tutorial outlines the prerequisites and using a VPN within the VM and your personal computer.<br />
 
 
